@@ -15,9 +15,10 @@ In 2019, motivated by genuine interest and needing a change, I embarked on my jo
 - "The best error message is the one that never shows up."
 
 <br>
-💻**Programming Languages:** JavaScript, TypeScript
+
+💻 **Programming Languages:** JavaScript, TypeScript
 <br>
-🔧**Technologies & Tools:** HTML, CSS, React, Node.js, Git, RESTFUL APIs, Styled Components, Material UI, Jest, React Testing Library.
+🔧 **Technologies & Tools:** HTML, CSS, React, Node.js, Git, RESTFUL APIs, Styled Components, Material UI, Jest, React Testing Library.
 <br>
 ☁️ **Cloud:** CI/CD, Git, Gitlabm, CDNs, Docker
 <br>
